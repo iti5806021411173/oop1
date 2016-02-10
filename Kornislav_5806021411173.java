@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Kornislav_5806021411092 {
+public class Kornislav {
 
 	public static void main(String[] args) {
 			
